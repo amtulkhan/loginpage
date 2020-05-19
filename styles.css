@@ -1,0 +1,130 @@
+body{
+  position: relative;
+}
+p{
+  top: 100px;
+left: 100px;
+width: 65px;
+height: 27px;
+text-align: left;
+font-family: cursive;
+font-size: 20px;
+font-weight: bolder;
+letter-spacing: 0px;
+color: #0BB7A7;
+opacity: 1;
+margin-left: 5%;
+margin-top: 5%;
+}
+.sign{
+  top: 356px;
+left: 100px;
+width: 376px;
+height: 39px;
+text-align: left;
+font-size: 32px;
+font-family: Montserrat;
+font-weight:500;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+padding-top: 5%;
+}
+.left{
+  background-color:#F1F1F1;
+  top: 0px;
+left: 0px;
+width: 60%;
+height: 1080px;
+display: inline-block;
+
+}
+.right{
+  background-color:#0BB7A7;
+  top: 0px;
+left: 1011px;
+width: 40%;
+height: 1080px;
+display: inline-block;
+float: right;
+}
+.photo{
+  top: 340px;
+left: 1244px;
+width: 421px;
+height: 353px;
+padding: 200px 10px 50px 90px;
+background-repeat: no-repeat;
+background-origin: padding-box;
+
+}
+.mail{
+  padding: 5%;
+  margin:auto;
+}
+
+
+label{
+  display: block;
+  top: 443px;
+left: 116px;
+width: 116px;
+height: 19px;
+text-align: left;
+font-family: Montserrat;
+font-weight: bold;
+letter-spacing: 0px;
+color: #ADADAD;
+opacity: 1;
+font-size: 16px;
+}
+input{
+  top: 435px;
+left: 100px;
+width: 537px;
+height: 80px;
+background-color: #FFFFFF;
+box-shadow: 0px 3px 6px #00000029;
+border: 1px solid #E2DBDB;
+opacity: 1;
+}
+#email{
+  top: 471px;
+left: 116px;
+width: 359px;
+height: 27px;
+text-align: left;
+font-size: 22px;
+font-family: Montserrat;
+font-weight: 300;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1
+}
+.button{
+  top: 674px;
+left: 100px;
+width: 200px;
+height: 50px;
+background-color:#0BB7A7 ;
+box-shadow: 0px 3px 6px #00000029;
+border: 1px solid #E2DBDB;
+border-radius: 6px;
+opacity: 1;
+}
+.manpic{
+  display: inline;
+}
+#pass{
+  top: 571px;
+  left: 116px;
+  width: 129px;
+  height: 27px;
+  text-align: left;
+  font-size: 22px;
+  font-family: Montserrat;
+  font-weight: 300;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
